@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'Raleway';
+    src:url('Dwellers Blog/fonts/Canela-Bold.woff');
+    src:url('Dwellers Blog/fonts/Canela-Bold.woff2');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+body{
+    font-family: "Canela";
+}
+
+/* NAVBAR START */
+#toggle-button{
+    font-family: sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 2.5px;
+}
+/* NAVBAR END */
+
+/* HERO SECTION START */
+.hero-slider h1{
+    font-weight: bold;
+    font-size: 55px;
+
+}
+/* HERO SECTION END */
+
+
+/* CARDS START */
+#cards .btn{
+   font-size: 16px;
+   font-weight: 600;
+}
+#cards .card-body{
+    font-family: sans-serif;
+}
+/* CARDS END */
+
+/* FOTTER START */
+footer{
+    font-family: sans-serif;
+}
+/* FOOTER END */
